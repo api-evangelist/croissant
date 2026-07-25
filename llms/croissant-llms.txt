@@ -1,0 +1,24 @@
+# Croissant
+
+> Croissant is the workspace infrastructure layer for distributed teams — an on-demand platform to find, book, and manage access to 700+ coworking spaces across 100+ cities without long-term leases, with spend governance, policy controls, vendor consolidation, and usage-intelligence reporting. Founded in 2015. No public developer API is documented; a custom API and integrations are offered on the enterprise tier.
+
+## Product
+- [Homepage](https://getcroissant.com): Workspace access, spend governance, policy controls, vendor consolidation, and usage intelligence for distributed teams.
+- [For Individuals](https://getcroissant.com/individual): On-demand workspace access for individual members.
+- [For Workspaces / Partners](https://getcroissant.com/partners): Listing and partnership program for coworking space operators.
+- [Pricing](https://getcroissant.com/pricing): Early Stage, Scaling (usage-based), and Enterprise (custom, includes custom integrations & API) tiers.
+
+## Company
+- [About](https://getcroissant.com/about): Company background — founded 2015 as the workspace infrastructure layer for distributed teams.
+- [Careers](https://getcroissant.com/careers): Open roles.
+- [FAQ](https://getcroissant.com/faq): Frequently asked questions.
+- [Contact](https://getcroissant.com/contact): Support and sales contact.
+- [Resources](https://getcroissant.com/resources): Whitepapers and guides.
+
+## Legal
+- [Terms of Service](https://getcroissant.com/terms)
+- [Privacy Policy](https://getcroissant.com/privacy)
+
+## Notes
+- No public OpenAPI, MCP server, SDKs, or developer documentation are published as of 2026-07-18.
+- Integrations advertised: Slack app, HRIS sync, stipend platforms, and ERP-integrated settlement (enterprise).

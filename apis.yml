@@ -1,8 +1,26 @@
 aid: croissant
 name: Croissant
-description: Croissant is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Croissant is the workspace infrastructure layer for distributed teams,
+  letting companies find, book, and manage on-demand access to 700+ coworking spaces
+  across 100+ cities without long-term leases. Founded in 2015, the platform pairs
+  instant workspace booking with spend governance, centralized policy controls, vendor
+  consolidation, and usage-intelligence reporting, giving finance and people teams
+  real-time control over where and how their people work. Croissant serves early-stage,
+  scaling, and enterprise organizations, and exposes Slack, HRIS, stipend, and ERP
+  integrations plus a custom API and integrations on its enterprise tier.
 url: https://raw.githubusercontent.com/api-evangelist/croissant/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.getcroissant.com/images/space.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Coworking
+- Workspace Management
+- Distributed Teams
+- Real Estate
+- Spend Management
+- Booking
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +48,22 @@ maintainers:
 common:
 - type: Website
   url: https://getcroissant.com
+- type: Pricing
+  url: https://getcroissant.com/pricing
+- type: SignUp
+  url: https://getcroissant.com/signup
+- type: Support
+  url: https://getcroissant.com/contact
+- type: TermsOfService
+  url: https://getcroissant.com/terms
+- type: PrivacyPolicy
+  url: https://getcroissant.com/privacy
+- type: DomainSecurity
+  url: security/croissant-domain-security.yml
+- type: LLMsTxt
+  url: llms/croissant-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
